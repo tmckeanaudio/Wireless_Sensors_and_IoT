@@ -1,4 +1,0 @@
-#!/bin/sh
-cd `dirname $0`
-../src/tm_hw2_2bd_1 -n .:../src $*
-# for shared lib, use: opp_run -l ../src/tm_hw2_2bd_1 -n .:../src $*
